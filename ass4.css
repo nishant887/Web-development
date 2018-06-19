@@ -1,0 +1,79 @@
+
+.header{
+	
+	background-color:black;
+	height:100px;
+	
+	
+	
+	
+			
+}
+
+.search{
+	
+	width:20%;
+	position:absolute;
+	
+	right:8px;
+}
+
+body{
+	background-color:rgb(240,240,240)
+}
+
+
+.footer{
+	background-color:black;
+	height:120px;
+	text-align:center;
+	color:white;
+	
+	
+	
+}
+
+.article{
+	margin:25px;
+	border:1px dotted red;
+	width:770px;
+	padding:20px;
+	background-color:white;
+}
+
+.box{
+	margin:25px;
+	border:1px solid red;
+	width:770px;
+	padding:20px;
+	background-color:white;
+	
+	
+}
+
+.rect{
+	margin:25px;
+	border:1px dashed red;
+	width:770px;
+	padding:20px;
+	background-color:white;
+	
+}
+p:first-of-type{
+	color:rgb(180,180,180);
+	text-align:right;
+}
+
+p:last-of-type{
+	font-family:Cambria;
+}
+	
+
+	
+
+
+
+	
+	
+	
+	
